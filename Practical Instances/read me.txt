@@ -1,0 +1,4 @@
+Vamos disponibilizar no GitHub:
+	Instância
+	Seed
+	Parâmetros usados no Pack2GEN
